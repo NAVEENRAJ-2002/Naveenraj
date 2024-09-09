@@ -15,17 +15,12 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ### [Analyzing Pizza Sales Trends](https://github.com/NAVEENRAJ-2002/Analyzing-Pizza-Sales-Trends)
 **Description**:  
-Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
+* To extract insights from pizza sales data using SQL and uncover trends, patterns, and correlations that can inform business decisions.
+* SQL code and queries used for analysis.
 
 **Technologies**:  
-- **Power BI**: Data visualization and dashboard creation.
-- **Data Sources**: Multiple data sources for COVID-19 statistics.
-- **Data Cleaning**: Performed data cleaning to ensure accuracy and reliability in the visualized data.
-  
-**Outcomes**:
-- Delivered a dashboard that provided real-time insights into COVID-19 statistics.
-- Improved decision-making with actionable insights and clear data visualization.
-- Enhanced analysis and tracking of the pandemic’s impact across various regions.
+- **MySQL**
+
 
 ### [CALL CENTER REPORT](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
 **Description**:  
