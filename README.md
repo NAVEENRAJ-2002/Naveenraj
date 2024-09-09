@@ -13,7 +13,7 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ## 🛠 Projects
 
-### [Analyzing Pizza Sales Trends](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
+### [Analyzing Pizza Sales Trends](https://github.com/NAVEENRAJ-2002/Analyzing-Pizza-Sales-Trends)
 **Description**:  
 Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
 
