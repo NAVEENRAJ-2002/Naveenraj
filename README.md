@@ -21,9 +21,9 @@ After completing my education in Electronics and Communication Engineering, I've
 **Technologies**:  
 - **MySQL**
 
-### [SALES AND CUSTOMER REPORT]()
+### [SALES AND CUSTOMER REPORT](https://github.com/NAVEENRAJ-2002/SALES-AND-CUSTOMER-REPORT)
 **Description**:  
-Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
+A sales and customer dashboard is a visual tool designed to provide a comprehensive view of a company's sales performance, customer behavior, and overall business health. It consolidates data from various sources, such as CRM systems, financial tools, and customer feedback, into easily interpretable charts, graphs, and metrics.
 
 **Technologies**:  
 - **Tableau**: Data visualization and dashboard creation.
