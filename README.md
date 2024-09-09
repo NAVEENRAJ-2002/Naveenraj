@@ -21,6 +21,19 @@ After completing my education in Electronics and Communication Engineering, I've
 **Technologies**:  
 - **MySQL**
 
+### [SALES AND CUSTOMER REPORT]()
+**Description**:  
+Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
+
+**Technologies**:  
+- **Tableau**: Data visualization and dashboard creation.
+- **Data Sources**: Multiple data sources for Sales and Customer Statistics.
+  
+**Outcomes**:
+- Sales and customer dashboards are vital tools for businesses to monitor performance, gain insights, and make data-driven decisions.
+- Improved decision-making with actionable insights and clear data visualization.
+- Track and visualize sales trends over time (daily, weekly, monthly, or quarterly) to understand overall growth.
+
 
 ### [CALL CENTER REPORT](https://github.com/NAVEENRAJ-2002/CALL-CENTER-REPORT)
 **Description**:  
