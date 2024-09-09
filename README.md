@@ -36,7 +36,7 @@ Developed an interactive dashboard for analyzing call center performance metrics
 - Created easy-to-use reports that made complex data simpler.
 - Improved data analysis with advanced DAX calculations.
 
-### [AMAZON PRIME VIDEO REPORT](https://github.com/Gokul-Viswa-B/AMAZON-PRIME-REPORT.git)
+### [AMAZON PRIME VIDEO REPORT](https://github.com/NAVEENRAJ-2002/AMAZON-PRIME-VIDEO-REPORT)
 **Description**:  
 Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
 
@@ -60,17 +60,16 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 ---
 
 ## 🎓 Education
-- **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 8.08
-- **HSC** in Computer-Science group with percentage of 65.66%
-- **SSLC** with percentage of 79%
-- **Certifications**: Power BI, Tableau
+- **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 7.5
+- **HSC** in Computer-Science group with percentage of 71.66%
+- **SSLC** with percentage of 83.2%
 
 ---
 
 ## 🌍 Languages
-- **Tamil** – Speak, Write, Read
 - **English** – Speak, Write, Read
-
+- **Saurashtra** – Speak
+- **Tamil** – Speak, Write, Read
 ---
 
 ## 🌐 Connect with me:
