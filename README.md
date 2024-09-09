@@ -22,7 +22,7 @@ After completing my education in Electronics and Communication Engineering, I've
 - **MySQL**
 
 
-### [CALL CENTER REPORT](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
+### [CALL CENTER REPORT](https://github.com/NAVEENRAJ-2002/CALL-CENTER-REPORT)
 **Description**:  
 Developed an interactive dashboard for analyzing call center performance metrics. Used DAX formulas for advanced calculations to gain deeper insights into key performance indicators. Designed the dashboard to be user-friendly, which helped in making reports faster and easier to create.
 
