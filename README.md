@@ -64,6 +64,14 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 
 ---
 
+## 📜 Certifications
+
+- **[Power BI Job Stimulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_zArdkZtJX7b8dbqSS_1726069389046_completion_certificate.pdf)** – Issued by [Forage] Powered by [PwC], [September 2024]
+- **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/8901b48b7c854187ac07def8dd54fa69)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [September, 2024]
+
+---
+
+
 ## 🎓 Education
 - **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 7.5
 - **HSC** in Computer-Science group with percentage of 71.66%
