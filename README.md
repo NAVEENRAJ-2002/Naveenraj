@@ -73,7 +73,7 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 
 
 ## 🎓 Education
-- **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 7.5
+- **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 8.18
 - **HSC** in Computer-Science group with percentage of 71.66%
 - **SSLC** with percentage of 83.2%
 
